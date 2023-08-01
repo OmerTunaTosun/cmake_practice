@@ -1,3 +1,0 @@
-/home/omer/Masaüstü/CMake/temperature_converter/build/CMakeFiles/temperature_converter.dir
-/home/omer/Masaüstü/CMake/temperature_converter/build/CMakeFiles/edit_cache.dir
-/home/omer/Masaüstü/CMake/temperature_converter/build/CMakeFiles/rebuild_cache.dir
