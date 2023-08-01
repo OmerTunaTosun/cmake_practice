@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/temperature_converter.dir/converter.cpp.o -o temperature_converter 
