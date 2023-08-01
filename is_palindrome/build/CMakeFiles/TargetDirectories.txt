@@ -1,0 +1,3 @@
+/home/omer/Masaüstü/CMake/is_palindrome/build/CMakeFiles/is_palindrome.dir
+/home/omer/Masaüstü/CMake/is_palindrome/build/CMakeFiles/edit_cache.dir
+/home/omer/Masaüstü/CMake/is_palindrome/build/CMakeFiles/rebuild_cache.dir

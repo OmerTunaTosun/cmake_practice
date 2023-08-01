@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/is_palindrome.dir/palindrome.cpp.o -o is_palindrome 
